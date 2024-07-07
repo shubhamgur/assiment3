@@ -1,0 +1,52 @@
+
+
+.input{
+margin-top: 80px;
+margin-left: 100px;
+height: 40px;
+width: 300px;
+border-radius: 20px;
+background-color: rgb(241, 208, 122);
+font-size: 25px;
+}
+
+.drop{
+    display: inline;
+    margin-left: 500px;
+    height: 40px;
+width: 300px;
+background-color: rgb(241, 208, 122);
+font-size: 25px;
+font-style: italic;
+}
+
+.table{
+    margin: 0 30px;
+    margin-top: 60px;
+    border-radius: 20px;
+}
+
+.tr{
+    background-color: rgb(235, 206, 135); 
+}
+
+.statis{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.table2{
+    width: 400px;
+}
+
+.btn{
+    border-radius: 10px;
+    background-color: burlywood;
+}
+
+.showBtn{
+    margin-top: 70px;
+    margin-left: 600px;
+    background-color: burlywood;
+    border-radius: 10px;
+}
